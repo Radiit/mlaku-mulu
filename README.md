@@ -84,8 +84,8 @@ Untuk menjalankan proyek secara lokal, ikuti langkah-langkah berikut:
 
 ### **3. Buat file `.env` pada root directory dengan konfigurasi berikut:**
 ```
-DATABASE_URL="postgresql://root:npg_unNLxg9EJ4fC@ep-still-night-a1ausqmw-pooler.ap-southeast-1.aws.neon.tech/mlaku_mulu_db?sslmode=require"
-JWT_SECRET=LKJHDASFosadihuyfiaoslufALSKJDFHASDFUH1231312
+DATABASE_URL={DB LINK}
+JWT_SECRET={Random token}
 PORT=3000
 
 TWILIO_ACCOUNT_SID={YOUR_SID}
